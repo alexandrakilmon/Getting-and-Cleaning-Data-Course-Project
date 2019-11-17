@@ -1,4 +1,13 @@
+---
+title: "Untitled"
+author: "ALK"
+date: "11/17/2019"
+output: rmarkdown::github_document
+---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 Getting and Cleaning Data: Course Project
 =========================================
